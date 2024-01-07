@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+img {
+    height: 500px; 
+   
+  }
+.marpad{
+    padding:30px;
+    box-shadow: inset;
+    height: 20%;
+}
+.card{
+    margin: 30px;
+    height: 50%;
+
+}
+
+
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: solid gray 2px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#white{
+  background-color: #e0dbdb;
+}
+#aqua{
+background-color: #00ffff;
+}
+#violet{
+background-color: #ee82ee;
+}
+#black{
+    background-color: #000000;
+}
+#color-switcher{
+    text-align: right;
+}
+
+
+
+
+  
+  
